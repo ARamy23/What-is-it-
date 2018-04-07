@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Yo ! can i tap into your photo library ???</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Can I store the photos taken on your iPhone ? </string>
+	<key>NSCameraUsageDescription</key>
+	<string>I need to use your camera in order to eat bread !</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
